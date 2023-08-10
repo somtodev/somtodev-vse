@@ -16,7 +16,7 @@ function Project({ project }) {
         <section className="relative">
 
             <div className={`w-full aspect-[1.7] cursor-pointer overflow-hidden`}>
-                <img src={`/images/snapshots/${image}`} alt={name} className="w-full h-full hover:scale-125 transition-all"/>
+                <img src={`/images/snapshots/${image}`} alt={name} className="w-full h-full hover:skew-y-3 hover:scale-125 transition-all"/>
             </div>
 
             <section className="my-2">
