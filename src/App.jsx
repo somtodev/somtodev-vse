@@ -14,7 +14,7 @@ export default function App() {
                 <Route path="/" element={<Home />} />
                 <Route path="/blog">
                     <Route index element={<ComingSoon />} />
-                    {/*<Route path="/blog/:id" element={<BlogViewer />} /*/}>
+                    {/*<Route path="/blog/:id" element={<BlogViewer />} />*/}
                 </Route>
                 <Route path="/*" element={<NotFound />} />
             </Routes>

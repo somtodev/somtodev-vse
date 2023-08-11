@@ -17,8 +17,8 @@ export default {
             "bg": "#111111",
         },
         fontFamily: {
-            header: ["Inter", "sans-serif"],
-            body: ["Open Sans", "sans-serif"],
+            header: ["Space Grotesk", "sans-serif"],
+            body: ["Space Grotesk", "sans-serif"],
         },
         extend: {},
     },
