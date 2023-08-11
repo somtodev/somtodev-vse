@@ -32,7 +32,7 @@ export default function Layout({ children }) {
                 </section>
                 {isScrolled && (
                     <Link to="navbar" duration={2500} smooth={true}>
-                        <div className="fixed bottom-4 right-0 cursor-pointer hover:shadow-lg md:right-4 lg:bottom-8 lg:right-12">
+                        <div className="fixed bottom-5 right-[2px] cursor-pointer hover:shadow-lg md:right-4 lg:bottom-8 lg:right-12">
                             <img src={IArrow} />
                         </div>
                     </Link>
