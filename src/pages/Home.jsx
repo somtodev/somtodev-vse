@@ -33,6 +33,7 @@ export default function Home() {
                         <ToolCard name="Linux" />
                         <ToolCard name="MongoDB" />
                         <ToolCard name="Remix" />
+                        <ToolCard name="Typescript" />
                     </div>
                 </div>
             </Section>
