@@ -1,13 +1,5 @@
 [
     {
-        "name": "Urban Dealers",
-        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntia ssimus quisquam voluptatum maiores?",
-        "image": "urban-dealers.png",
-        "status": "DEVELOPMENT",
-        "github": "https://github.com/somtodev/urban-dealers",
-        "website": "https://urbandealers.netlify.app"
-    },
-    {
         "name": "Clodex",
         "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntia ssimus quisquam voluptatum maiores?",
         "image": "urban-dealers.png",
@@ -18,20 +10,12 @@
     {
         "name": "Quik Drop",
         "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntia ssimus quisquam voluptatum maiores?",
-        "image": "urban-dealers.png",
+        "image": "quik-drop.png",
         "status": "ARCHIVED",
         "github": "https://github.com/somtodev/quik-drop",
         "website": "https://urbandealers.netlify.app"
     },
     {
-        "name": "IXXI",
-        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntia ssimus quisquam voluptatum maiores?",
-        "image": "urban-dealers.png",
-        "status": "PRIVATE",
-        "github": "https://github.com/somtodev/urban-dealers",
-        "website": "https://urbandealers.netlify.app"
-    },
-{
         "name": "Racy",
         "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntia ssimus quisquam voluptatum maiores?",
         "image": "urban-dealers.png",
