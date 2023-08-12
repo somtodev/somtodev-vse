@@ -1,26 +1,23 @@
 [
     {
         "name": "Clodex",
-        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntia ssimus quisquam voluptatum maiores?",
-        "image": "urban-dealers.png",
-        "status": "DEVELOPMENT",
-        "github": "https://github.com/somtodev/urban-dealers",
-        "website": "https://urbandealers.netlify.app"
+        "description": "Coming soon....",
+        "image": "clodex.png",
+        "status": "DEVELOPMENT"
     },
     {
         "name": "Quik Drop",
-        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntia ssimus quisquam voluptatum maiores?",
+        "description": "Seemless file transfer from pc to mobile devices with Quik Drop without usage of data.",
         "image": "quik-drop.png",
         "status": "ARCHIVED",
-        "github": "https://github.com/somtodev/quik-drop",
-        "website": "https://urbandealers.netlify.app"
+        "github": "https://github.com/somtodev/quik-drop"
     },
     {
         "name": "Racy",
-        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntia ssimus quisquam voluptatum maiores?",
-        "image": "urban-dealers.png",
-        "status": "UNMAINTAINED",
+        "description": "Minimal chat app where users could connect to a text-based chat room and talk to other logged-in users. Just like in the 1990's.",
+        "image": "racy.png",
+        "status": "ARCHIVED",
         "github": "https://github.com/somtodev/racy",
-        "website": "https://urbandealers.netlify.app"
+        "website": "https://racy.onrender.com"
     }
 ]
