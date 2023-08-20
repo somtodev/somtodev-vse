@@ -9,7 +9,6 @@ import ComingSoon from "./pages/ComingSoon";
 
 export default function App() {
     return (
-<h1>Smile</h1>
         <Layout>
             <Routes>
                 <Route path="/" element={<Home />} />
