@@ -24,22 +24,22 @@ export default function Navbar() {
                 <ul className="flex gap-4">
                     <li title={"Tools"} className={nav__link}>
                         <Link to="tools" smooth={true} duration={500}>
-                            <img src={ITools} />
+                            <img src={ITools} alt={'Tools'} />
                         </Link>
                     </li>
                     <li title={"Projects"} className={nav__link}>
                         <Link to="projects" smooth={true} duration={500}>
-                            <img src={IProjects} />
+                            <img src={IProjects} alt={'Projects'} />
                         </Link>
                     </li>
                     <li title={"Github"} className={nav__link}>
                         <a target={'_blank'} href="https://github.com/somtodev" rel="noreferrer">
-                            <img src={IGithub} />
+                            <img src={IGithub} alt={'Github'} />
                         </a>
                     </li>
                     <li title={"Blog"} className={nav__link}>
                         <NavLink to={'/blog'}>
-                            <img src={IBlog} />
+                            <img src={IBlog} alt={'Blog'} />
                         </NavLink>
                     </li>
                 </ul>

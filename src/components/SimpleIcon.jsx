@@ -4,6 +4,7 @@ export default function SimpleIcon({ name, size }) {
         <img
             height={def_size}
             width={def_size}
+            alt={name}
             src={`https://cdn.simpleicons.org/${name}`}
         />
     );

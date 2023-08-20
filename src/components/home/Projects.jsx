@@ -15,12 +15,12 @@ function Project({ project }) {
     return (
         <section className="relative">
 
-            <div className={`w-full aspect-[1.7] cursor-pointer overflow-hidden`}>
+            <div className={`w-full aspect-video cursor-pointer overflow-hidden`}>
                 <img src={`/images/snapshots/${image}`} alt={name} className="w-full h-full hover:skew-y-3 hover:scale-125 transition-all"/>
             </div>
 
             <section className="my-2">
-                <h4 className="text-md font-bold">{name}</h4>
+                <h3 className="text-lg font-bold">{name}</h3>
 
                 <p className="text-sm opacity-75 my-2">{description}</p>
 
@@ -42,7 +42,7 @@ function Project({ project }) {
                             rel="noreferrer"
                             target={"_blank"}
                             href={github}
-                            className="text-sm text-white px-3 py-1 rounded-md bg-secondary"
+                            className="text-sm text-white px-3 py-1 rounded-md bg-border"
                         >
                             Repo
                         </a>

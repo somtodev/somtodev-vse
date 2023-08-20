@@ -58,11 +58,11 @@ export default function Home() {
                     />
                     <FollowLink
                         title={"LinkedIn"}
-                        link="https://twitter.com/somtodev"
+                        link="https://linkedin.com/in/somtodev"
                     />
                     <FollowLink
                         title={"Frontend Mentor"}
-                        link="https://twitter.com/somtodev"
+                        link="https://frontendmentor.com/Leroynnalue"
                     />
                 </p>
             </section>
