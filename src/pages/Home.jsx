@@ -46,7 +46,7 @@ export default function Home() {
             </Section>
 
             <section className="my-6">
-                <h3 className="font-bold text-xl my-4">Find me on</h3>
+                <h3 className="font-bold font-header text-xl my-4">Find me on</h3>
                 <p className="text-md font-normal">
                     <FollowLink
                         title={"Github"}

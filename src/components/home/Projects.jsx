@@ -20,7 +20,7 @@ function Project({ project }) {
             </div>
 
             <section className="my-2">
-                <h3 className="text-lg font-bold">{name}</h3>
+                <h3 className="text-lg font-header font-bold">{name}</h3>
 
                 <p className="text-sm opacity-75 my-2">{description}</p>
 
