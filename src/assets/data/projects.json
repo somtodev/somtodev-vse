@@ -1,23 +1,9 @@
 [
     {
-        "name": "Clodex",
-        "description": "Coming soon....",
-        "image": "clodex.png",
-        "status": "DEVELOPMENT"
-    },
-    {
         "name": "Quik Drop",
         "description": "Seemless file transfer from pc to mobile devices with Quik Drop without usage of data.",
         "image": "quik-drop.png",
         "status": "ARCHIVED",
         "github": "https://github.com/somtodev/quik-drop"
-    },
-    {
-        "name": "Racy",
-        "description": "Minimal chat app where users could connect to a text-based chat room and talk to other logged-in users. Just like in the 1990's.",
-        "image": "racy.png",
-        "status": "ARCHIVED",
-        "github": "https://github.com/somtodev/racy",
-        "website": "https://racy.onrender.com"
     }
 ]

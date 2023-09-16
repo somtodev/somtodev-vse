@@ -19,6 +19,7 @@ export default function Home() {
                     <ToolCard name="TailwindCSS" />
                     <ToolCard name="Node.js" />
                     <ToolCard name="MySQL" />
+                    <ToolCard name="SQLite" />
                     <ToolCard name="Git" />
                     <ToolCard name="Vim" />
                 </div>
@@ -29,10 +30,7 @@ export default function Home() {
                         workflow much more efficient.
                     </p>
                     <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-x-6 gap-y-5 mt-5">
-                        <ToolCard name="OpenJDK" />
                         <ToolCard name="Linux" />
-                        <ToolCard name="MongoDB" />
-                        <ToolCard name="Remix" />
                         <ToolCard name="Typescript" />
                     </div>
                 </div>
