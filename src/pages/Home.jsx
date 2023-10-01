@@ -31,6 +31,7 @@ export default function Home() {
           <div className="mt-5 grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-x-6 gap-y-5">
             <ToolCard name="Linux" />
             <ToolCard name="Typescript" />
+            <ToolCard name="Kotlin" />
           </div>
         </div>
       </Section>
