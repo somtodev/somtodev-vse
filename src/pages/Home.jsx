@@ -56,6 +56,10 @@ export default function Home() {
             title={"Frontend Mentor"}
             link="https://frontendmentor.com/Leroynnalue"
           />
+          <FollowLink
+            title={"My Resume"}
+            link="https://docs.google.com/document/d/e/2PACX-1vR5gdD-2S7DrBfBLybyTmDSW5vl1afTWlX3wqHY72iyu1yvz4T32GUle1bwZtDASdcn50C3wZhxtJwV/pub"
+          />
         </p>
       </section>
 
