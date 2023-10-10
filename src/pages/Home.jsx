@@ -22,6 +22,8 @@ export default function Home() {
           <ToolCard name="SQLite" />
           <ToolCard name="Git" />
           <ToolCard name="Vim" />
+          <ToolCard name="Python" />
+          <ToolCard name="Flask" />
         </div>
         <div className="border-[1px] border-neutral-500 rounded-xl p-4 mt-5">
           <p className="text-sm font-light opacity-75">

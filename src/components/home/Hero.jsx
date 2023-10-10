@@ -25,7 +25,7 @@ export default function Hero() {
       </p>
       <a
         href="mailto:leroynnalue65@gmail.com"
-        className="px-3 py-2 text-md bg-border bg-opacity-75 rounded-md transition-all hover:bg-opacity-100"
+        className="px-3 py-2 gap-3 text-md bg-border border-[1px] border-opacity-25 border-primary bg-opacity-75 outline-0 rounded-md transition-all hover:bg-opacity-100 hover:border-opacity-50 hover:shadow-secondary hover:shadow-sm hover:outline-1 hover:outline-secondary"
       >
         Mail Me
       </a>
