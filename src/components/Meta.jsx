@@ -13,7 +13,7 @@ export default function Meta({ title, page }) {
       <meta property="og:title" content="Somtochukwu" />
       <meta property="og:description" content="SWD | Personal Website" />
       <meta property="og:image" content="/profile.png" />
-      <meta property="og:url" content="https://somtodev.netlify.app" />
+      <meta property="og:url" content="https://somtodev.brimble.app" />
 
       {/* Twitter Card tags */}
       <meta name="twitter:title" content="Somtochukwu" />
@@ -33,11 +33,11 @@ function BlogMeta() {
       <meta property="og:title" content="Somtochukwu | Blog" />
       <meta property="og:description" content="Somto Dev's Blog" />
       <meta property="og:image" content="/profile.png" />
-      <meta property="og:url" content="https://somtodev.netlify.app/blog" />
+      <meta property="og:url" content="https://somtodev.brimble.app/blog" />
       {/* Twitter Card tags */}
       <meta name="twitter:title" content="Somtochukwu | Blog" />
       <meta name="twitter:description" content="Somto Dev's Blog" />
-      <meta name="twitter:image" content="https://somtodev.netlify.app/blog" />
+      <meta name="twitter:image" content="https://somtodev.brimble.app/blog" />
     </>
   );
 }
