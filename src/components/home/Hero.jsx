@@ -16,9 +16,10 @@ export default function Hero() {
           A software engineering student at Aptech.
         </span>
         <br />I am passionate about writing digital solutions to problems (the
-        right way). I am an aspiring hardcore backend developer. I'm giving my
-        all to make that a reality :)
+        right way).
         <br />
+        I am building my skills to be fit for a web developer position by the
+        end of the year. <br />
         <br />
         In my free time, I read books and articles to make me do better as a
         person and as a developer.
