@@ -20,6 +20,7 @@ export default function Home() {
           <ToolCard name="TailwindCSS" />
           <ToolCard name="Node.js" />
           <ToolCard name="MySQL" />
+          <ToolCard name="Linux" />
           <ToolCard name="SQLite" />
           <ToolCard name="Git" />
           <ToolCard name="Vim" />
@@ -32,8 +33,8 @@ export default function Home() {
             build something with them to make my workflow much more efficient.
           </p>
           <div className="mt-5 grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-x-6 gap-y-5">
-            <ToolCard name="Linux" />
             <ToolCard name="Php" />
+            <ToolCard name="Docker" />
           </div>
         </div>
       </Section>
