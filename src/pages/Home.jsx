@@ -33,7 +33,6 @@ export default function Home() {
             build something with them to make my workflow much more efficient.
           </p>
           <div className="mt-5 grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-x-6 gap-y-5">
-            <ToolCard name="Php" />
             <ToolCard name="Docker" />
           </div>
         </div>
@@ -41,7 +40,7 @@ export default function Home() {
 
       <Section
         title={"Projects"}
-        description="In my free time, I try to build things  I could use to solve personal problems and sometimes just for fun. Below are projects I have worked on personally for my portfolio or work (ofc if it's not private )"
+        description="In my free time, I try to build things  I could use to solve personal problems and sometimes just for fun. Below are projects I have worked on personally for my portfolio. or work (ofc if it's not private )"
       >
         <Projects />
       </Section>
