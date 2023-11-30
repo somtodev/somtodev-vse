@@ -1,5 +1,13 @@
 [
   {
+    "name": "Nota",
+    "description": "My personal note taking application to sync across my devices",
+    "status": "DEVELOPMENT",
+    "image": "nota.png",
+    "github": "https://github.com/somtodev/nota"
+  },
+
+  {
     "name": "Blogga",
     "description": "Your personal minimalist blogging website...",
     "image": "blogga.png",
