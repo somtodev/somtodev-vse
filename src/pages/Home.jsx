@@ -33,7 +33,8 @@ export default function Home() {
             build something with them to make my workflow much more efficient.
           </p>
           <div className="mt-5 grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-x-6 gap-y-5">
-            <ToolCard name="PHP" />
+            <ToolCard name="Firebase" />
+            <ToolCard name="Next.js" />
             <ToolCard name="Docker" />
           </div>
         </div>
